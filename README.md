@@ -13,10 +13,10 @@
 🌱 &nbsp;"Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.".\
 ✍️ &nbsp;"En mi tiempo libre me gusta leer sobre Ciencia Ficción, terror y ciencia. Disfruto mucho del cine".\
 
-💡  I am passionate about learning new technologies and finding solutions to all kinds of problems.
-🎓  I am currently studying the Programming Technician degree at the National Technological University (Argentina).
-🌱  "I am on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture."
-✍️  "In my free time, I enjoy reading Science Fiction, horror, and science. I also really enjoy cinema.
+💡  I am passionate about learning new technologies and finding solutions to all kinds of problems.\
+🎓  I am currently studying the Programming Technician degree at the National Technological University (Argentina).\
+🌱  "I am on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture."\
+✍️  "In my free time, I enjoy reading Science Fiction, horror, and science. I also really enjoy cinema.\
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
